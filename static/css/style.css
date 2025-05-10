@@ -1,0 +1,21 @@
+body {
+    font-family: 'Segoe UI', sans-serif;
+  }
+  
+  .navbar-brand i {
+    margin-right: 0.5rem;
+  }
+  
+  h1.display-5 i {
+    margin-right: 0.5rem;
+  }
+  
+  .card i {
+    font-size: 2rem;
+  }
+  
+  .badge {
+    font-size: 0.9rem;
+    margin: 0.1rem;
+  }
+  
